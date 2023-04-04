@@ -1,0 +1,18 @@
+seniority/node_modules
+seniority/public/build
+seniority/public/hot
+seniority/public/storage
+seniority/storage/*.key
+/vendor
+# .env
+.env.backup
+.env.production
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+auth.json
+npm-debug.log
+yarn-error.log
+/.fleet
+/.idea
+/.vscode

@@ -1,0 +1,16 @@
+{
+    "Blog": true,
+    "Authen": true,
+    "User": false,
+    "Home": true,
+    "Media": true,
+    "MLM": false,
+    "Agent": true,
+    "Dashboard": true,
+    "Staff": false,
+    "Level": true,
+    "LevelLicenced": true,
+    "LevelNonLicenced": true,
+    "Product": true,
+    "Transaction": true
+}
